@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Biswajit Mahato, github id- @Biswajitmahato1997
 - 👀 I’m interested in Web designing and development.
 - 🌱 I’m currently learning python for better understanding django framework.
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate with new developers  who just started their coding life.
 - 📫 How to reach me ...  biswajitmahato.bm1111@gmail.com | https://www.linkedin.com/in/biswajit-mahato-29316a218
 
 <!---
